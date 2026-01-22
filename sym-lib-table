@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PMW3360DM_TQ2U")(type "KiCad")(uri "${KIPRJMOD}/Symbols/PMW3360DM_TQ2U.kicad_sym")(options "")(descr ""))
+  (lib (name "D2FC-F-7N")(type "KiCad")(uri "${KIPRJMOD}/Symbols/D2FC-F-7N.kicad_sym")(options "")(descr ""))
+  (lib (name "FS8205")(type "KiCad")(uri "${KIPRJMOD}/Symbols/FS8205.kicad_sym")(options "")(descr ""))
+  (lib (name "IRLML2244TRPBF")(type "KiCad")(uri "${KIPRJMOD}/Symbols/IRLML2244TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "MBR120VLSFT1G")(type "KiCad")(uri "${KIPRJMOD}/Symbols/MBR120VLSFT1G.kicad_sym")(options "")(descr ""))
+  (lib (name "TTC_encoder")(type "KiCad")(uri "${KIPRJMOD}/Symbols/TTC_encoder.kicad_sym")(options "")(descr ""))
+)
