@@ -1,0 +1,47 @@
+Copyright (c) 2026 PikesTheFish (GitHub)
+
+Permission is hereby granted to any person obtaining a copy of this
+project and its source files (the “Project”) to use, study, modify,
+and share the Project for personal, educational, and research purposes,
+subject to the following conditions:
+
+1. Non-Commercial Use
+   The Project may not be used, manufactured, sold, sublicensed, or
+   distributed for commercial purposes without prior written permission
+   from the copyright holder.
+
+2. Modules and Extensions
+   Independent modules, extensions, or add-ons (“Modules”) that interface with 
+   the Project, through documented or intended interfaces, 
+   may be developed, distributed, and sold under any license, including
+   proprietary or commercial licenses, provided that:
+   a) The Module does not include, copy, or derive from proprietary parts
+      of the Project.
+   b) The Module is clearly identified as a third-party component.
+
+3. Proprietary Components
+   The following components are explicitly excluded from this license and
+   remain proprietary:
+   - All physical shell, enclosure, and external housing designs
+   - Associated CAD files, manufacturing files, and aesthetic designs
+   - Any files or assets explicitly marked as “Proprietary”.
+
+   These components may not be copied, modified, manufactured, or sold
+   without explicit permission from the copyright holder.
+
+4. Attribution
+   Any redistribution of the Project or modified versions must retain this 
+   copyright notice and include attribution to the original author.
+
+5. No Trademark Grant
+   This license does not grant permission to use the project name, logo,
+   or branding. Trademarks remain the property of the copyright holder.
+
+6. No Warranty
+   THE PROJECT IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY.
+
+
